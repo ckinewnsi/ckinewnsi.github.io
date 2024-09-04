@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ckinewnsi.github.io/sitemap.html.gz
+Sitemap: https://ckinewnsi.github.io/app/sitemap.html.gz
+Sitemap: https://ckinewnsi.github.io/assets/sitemap.html.gz
+Sitemap: https://ckinewnsi.github.io/css/sitemap.html.gz
+Sitemap: https://ckinewnsi.github.io/includes/sitemap.html.gz
+Sitemap: https://ckinewnsi.github.io/item/sitemap.html.gz
+Sitemap: https://ckinewnsi.github.io/src/sitemap.html.gz
